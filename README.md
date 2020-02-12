@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/vaibhavb/projectlira)](https://repl.it/github/vaibhavb/projectlira)
+
 # Project Lira
 Lira is a demonstration of domain driven voice first programming environment. The domain knowledge of Lira is around the idea of loading data sets and working with them domain specific data science modalities.
 
